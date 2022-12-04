@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Gabriel/AndroidStudioProjects/BarBot4/app/src/debug/res/drawable/ic_launcher_foreground.xml" value="0.213" />
+        <entry key="..\:/Users/Gabriel/AndroidStudioProjects/BarBot4/app/src/debug/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.213" />
+        <entry key="..\:/Users/Gabriel/AndroidStudioProjects/BarBot4/app/src/debug/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.213" />
+        <entry key="..\:/Users/Gabriel/AndroidStudioProjects/BarBot4/app/src/main/res/drawable/ic_delete_white_24dp.xml" value="0.213" />
+        <entry key="..\:/Users/Gabriel/AndroidStudioProjects/BarBot4/app/src/main/res/drawable/ic_send_white_24dp.xml" value="0.213" />
+        <entry key="..\:/Users/Gabriel/AndroidStudioProjects/BarBot4/app/src/main/res/layout/activity_main.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/Gabriel/AndroidStudioProjects/BarBot4/app/src/main/res/layout/device_list_header.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/Gabriel/AndroidStudioProjects/BarBot4/app/src/main/res/layout/device_list_item.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/Gabriel/AndroidStudioProjects/BarBot4/app/src/main/res/layout/fragment_drinks_list.xml" value="0.3671794871794872" />
+        <entry key="..\:/Users/Gabriel/AndroidStudioProjects/BarBot4/app/src/main/res/layout/fragment_drinks_setup.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/Gabriel/AndroidStudioProjects/BarBot4/app/src/main/res/layout/fragment_terminal.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/Gabriel/AndroidStudioProjects/BarBot4/app/src/main/res/menu/menu_devices.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/Gabriel/AndroidStudioProjects/BarBot4/app/src/main/res/menu/menu_drinks_available.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/Gabriel/AndroidStudioProjects/BarBot4/app/src/main/res/menu/menu_terminal.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/Gabriel/AndroidStudioProjects/BarBot4/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.213" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

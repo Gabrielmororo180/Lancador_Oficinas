@@ -1,0 +1,4 @@
+#Sun Dec 04 14:16:23 BRT 2022
+base.0=C\:\\Users\\Gabriel\\AndroidStudioProjects\\BarBot4\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

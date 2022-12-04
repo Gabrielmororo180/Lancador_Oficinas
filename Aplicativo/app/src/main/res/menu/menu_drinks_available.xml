@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/drinks_settings"
+        android:title="Configuração das bebidas"
+        tools:ignore="HardcodedText" />
+
+    <item
+        android:id="@+id/debug_settings"
+        android:title="Debugger Terminal"
+        tools:ignore="HardcodedText" />
+</menu>

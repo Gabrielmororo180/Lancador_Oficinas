@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "com.lancador.app-merged_res-29:/layout_device_list_header.xml.flat",
+        "source": "com.lancador.app-main-31:/layout/device_list_header.xml"
+    },
+    {
+        "merged": "com.lancador.app-merged_res-29:/drawable-mdpi_ic_notification.png.flat",
+        "source": "com.lancador.app-main-31:/drawable-mdpi/ic_notification.png"
+    },
+    {
+        "merged": "com.lancador.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.lancador.app-main-31:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.lancador.app-merged_res-29:/drawable-hdpi_ic_notification.png.flat",
+        "source": "com.lancador.app-main-31:/drawable-hdpi/ic_notification.png"
+    },
+    {
+        "merged": "com.lancador.app-merged_res-29:/menu_menu_devices.xml.flat",
+        "source": "com.lancador.app-main-31:/menu/menu_devices.xml"
+    },
+    {
+        "merged": "com.lancador.app-merged_res-29:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.lancador.app-main-31:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.lancador.app-merged_res-29:/drawable-xhdpi_ic_clear_white_24dp.png.flat",
+        "source": "com.lancador.app-main-31:/drawable-xhdpi/ic_clear_white_24dp.png"
+    },
+    {
+        "merged": "com.lancador.app-merged_res-29:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.lancador.app-main-31:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.lancador.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.lancador.app-main-31:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.lancador.app-merged_res-29:/drawable-xhdpi_ic_notification.png.flat",
+        "source": "com.lancador.app-main-31:/drawable-xhdpi/ic_notification.png"
+    },
+    {
+        "merged": "com.lancador.app-merged_res-29:/layout_fragment_terminal.xml.flat",
+        "source": "com.lancador.app-main-31:/layout/fragment_terminal.xml"
+    },
+    {
+        "merged": "com.lancador.app-merged_res-29:/layout_device_list_item.xml.flat",
+        "source": "com.lancador.app-main-31:/layout/device_list_item.xml"
+    },
+    {
+        "merged": "com.lancador.app-merged_res-29:/drawable-xxhdpi_ic_clear_white_24dp.png.flat",
+        "source": "com.lancador.app-main-31:/drawable-xxhdpi/ic_clear_white_24dp.png"
+    },
+    {
+        "merged": "com.lancador.app-merged_res-29:/drawable-xxhdpi_ic_notification.png.flat",
+        "source": "com.lancador.app-main-31:/drawable-xxhdpi/ic_notification.png"
+    },
+    {
+        "merged": "com.lancador.app-merged_res-29:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.lancador.app-main-31:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.lancador.app-merged_res-29:/menu_menu_drinks_available.xml.flat",
+        "source": "com.lancador.app-main-31:/menu/menu_drinks_available.xml"
+    },
+    {
+        "merged": "com.lancador.app-merged_res-29:/drawable_ic_send_white_24dp.xml.flat",
+        "source": "com.lancador.app-main-31:/drawable/ic_send_white_24dp.xml"
+    },
+    {
+        "merged": "com.lancador.app-merged_res-29:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.lancador.app-debug-30:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.lancador.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.lancador.app-debug-30:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.lancador.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.lancador.app-debug-30:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.lancador.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.lancador.app-debug-30:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.lancador.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.lancador.app-debug-30:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.lancador.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.lancador.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.lancador.app-merged_res-29:/drawable-xxxhdpi_ic_notification.png.flat",
+        "source": "com.lancador.app-main-31:/drawable-xxxhdpi/ic_notification.png"
+    },
+    {
+        "merged": "com.lancador.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.lancador.app-debug-30:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.lancador.app-merged_res-29:/drawable-xxxhdpi_ic_clear_white_24dp.png.flat",
+        "source": "com.lancador.app-main-31:/drawable-xxxhdpi/ic_clear_white_24dp.png"
+    },
+    {
+        "merged": "com.lancador.app-merged_res-29:/menu_menu_terminal.xml.flat",
+        "source": "com.lancador.app-main-31:/menu/menu_terminal.xml"
+    },
+    {
+        "merged": "com.lancador.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.lancador.app-main-31:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.lancador.app-merged_res-29:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.lancador.app-main-31:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.lancador.app-merged_res-29:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.lancador.app-main-31:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.lancador.app-merged_res-29:/drawable-mdpi_ic_clear_white_24dp.png.flat",
+        "source": "com.lancador.app-main-31:/drawable-mdpi/ic_clear_white_24dp.png"
+    },
+    {
+        "merged": "com.lancador.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.lancador.app-main-31:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.lancador.app-merged_res-29:/layout_lancador_controll.xml.flat",
+        "source": "com.lancador.app-main-31:/layout/lancador_controll.xml"
+    },
+    {
+        "merged": "com.lancador.app-merged_res-29:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.lancador.app-main-31:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.lancador.app-merged_res-29:/drawable_ic_delete_white_24dp.xml.flat",
+        "source": "com.lancador.app-main-31:/drawable/ic_delete_white_24dp.xml"
+    },
+    {
+        "merged": "com.lancador.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.lancador.app-debug-30:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.lancador.app-merged_res-29:/drawable-hdpi_ic_clear_white_24dp.png.flat",
+        "source": "com.lancador.app-main-31:/drawable-hdpi/ic_clear_white_24dp.png"
+    }
+]
